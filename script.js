@@ -572,6 +572,11 @@ function botReply(userText) {
     reply = "Bạn có thể nhấn nút 'Thêm vào giỏ' hoặc 'Mua ngay' để đặt hàng 🛒";
   } else if (userText.includes("bảo hành")) {
     reply = "Sản phẩm được bảo hành keo, chỉ may, đế bong tróc trong 6 tháng 🛡️";
+  
+  } else if (userText.includes("hello")) {
+    reply = "hello con khỉ cho xin 10đ đi";
+    } else if (userText.includes("xin chào")) {
+    reply = "xin chào con khỉ cho xin 10đ đi";
   }
 
   setTimeout(() => addMessage(reply, "bot"), 600);
