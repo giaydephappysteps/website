@@ -546,3 +546,46 @@ init();
 window.HappySteps = {
   PRODUCTS, cart, renderHome, renderDetail, openCheckout, createOrder, renderOrderModal
 };
+// ================= CHATBOX LOGIC =================
+const chatInput = document.getElementById("chatInput");
+const chatSend = document.getElementById("chatSend");
+const chatMessages = document.getElementById("chatbox-messages");
+
+function addMessage(text, sender = "bot") {
+  const msg = document.createElement("div");
+  msg.classList.add("chat-message", sender === "user" ? "chat-user" : "chat-bot");
+  msg.textContent = text;
+  chatMessages.appendChild(msg);
+  chatMessages.scrollTop = chatMessages.scrollHeight;
+}
+
+function botReply(userText) {
+  let reply = "Xin lỗi, tôi chưa hiểu câu hỏi của bạn 😅";
+
+  userText = userText.toLowerCase();
+
+  if (userText.includes("giá")) {
+    reply = "Giá sản phẩm từ 200.000đ - 500.000đ tuỳ loại 👟🩴";
+  } else if (userText.includes("ship") || userText.includes("vận chuyển")) {
+    reply = "Phí ship: 3.000đ / sản phẩm. Giao hàng COD toàn quốc 🚚";
+  } else if (userText.includes("đặt hàng") || userText.includes("mua")) {
+    reply = "Bạn có thể nhấn nút 'Thêm vào giỏ' hoặc 'Mua ngay' để đặt hàng 🛒";
+  } else if (userText.includes("bảo hành")) {
+    reply = "Sản phẩm được bảo hành keo, chỉ may, đế bong tróc trong 6 tháng 🛡️";
+  }
+
+  setTimeout(() => addMessage(reply, "bot"), 600);
+}
+
+chatSend.addEventListener("click", () => {
+  const text = chatInput.value.trim();
+  if (text) {
+    addMessage(text, "user");
+    chatInput.value = "";
+    botReply(text);
+  }
+});
+
+chatInput.addEventListener("keypress", (e) => {
+  if (e.key === "Enter") chatSend.click();
+});

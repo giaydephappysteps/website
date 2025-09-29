@@ -70,6 +70,16 @@
               style="background:linear-gradient(135deg,#ffd1a6,#ff8a3d)">
               Khám phá Dép
             </a>
+            <!-- ================= SEARCH BAR ================= -->
+<div id="searchBar">
+  <input type="text" id="searchInput" placeholder="🔍 Tìm sản phẩm...">
+  <select id="categoryFilter">
+    <option value="all">Tất cả danh mục</option>
+    <option value="giay">Giày</option>
+    <option value="dep">Dép</option>
+    <option value="phukien">Phụ kiện</option>
+  </select>
+</div>
           </div>
         </div>
       </div>
@@ -370,8 +380,19 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Icon_of_Zalo.svg"
       alt="Zalo" />
   </a>
+<!-- ================= AI CHATBOX ================= -->
+<div id="chatbox">
+  <div id="chatbox-header">🤖 Hỗ trợ khách hàng</div>
+  <div id="chatbox-messages"></div>
+  <div id="chatbox-input">
+    <input type="text" id="chatInput" placeholder="Nhập câu hỏi..." />
+    <button id="chatSend">Gửi</button>
+  </div>
+</div>
 
   <!-- ================= SCRIPTS ================= -->
   <script src="script.js"></script>
+
+</div>
 </body>
 </html>

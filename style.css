@@ -7,3 +7,155 @@
   padding: 5px;           /* tạo khoảng cách nhỏ, không dính sát khung */
   display: block;
 }
+/* ================= CHATBOX AI ================= */
+#chatboxContainer {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  font-family: sans-serif;
+  z-index: 999;
+}
+#chatboxToggle {
+  width: 50px;
+  height: 50px;
+  background: #007bff;
+  color: white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+}
+#chatbox {
+  width: 300px;
+  height: 400px;
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  bottom: 60px;
+  right: 0;
+}
+#chatbox.hidden { display: none; }
+#chatboxHeader {
+  background: #007bff;
+  color: white;
+  padding: 8px;
+  font-weight: bold;
+  border-radius: 8px 8px 0 0;
+}
+#chatboxMessages {
+  flex: 1;
+  padding: 8px;
+  overflow-y: auto;
+  font-size: 14px;
+}
+.chat-msg { margin: 4px 0; }
+.chat-user { text-align: right; color: blue; }
+.chat-bot { text-align: left; color: green; }
+#chatboxInputArea {
+  display: flex;
+  border-top: 1px solid #ccc;
+}
+#chatboxInput {
+  flex: 1;
+  border: none;
+  padding: 6px;
+}
+#chatboxSend {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+/* ================= SEARCH BAR ================= */
+#searchBar {
+  margin: 20px auto;
+  text-align: center;
+}
+#searchInput, #categoryFilter {
+  padding: 8px;
+  margin: 4px;
+  font-size: 14px;
+}
+/* ================= CHATBOX AI ================= */
+#chatboxContainer {
+  position: fixed;
+  bottom: 100px;  /* cao hơn icon Zalo */
+  right: 20px;
+  font-family: sans-serif;
+  z-index: 999;
+}
+/* ================= CHATBOX ================= */
+#chatbox {
+  position: fixed;
+  bottom: 90px; /* cao hơn icon Zalo */
+  right: 20px;
+  width: 280px;
+  max-height: 400px;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  font-size: 14px;
+  z-index: 999;
+}
+
+#chatbox-header {
+  background: #ff8a3d;
+  color: #fff;
+  padding: 8px 12px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+#chatbox-messages {
+  flex: 1;
+  padding: 8px;
+  overflow-y: auto;
+}
+
+.chat-message {
+  margin: 6px 0;
+  padding: 6px 10px;
+  border-radius: 8px;
+  max-width: 80%;
+}
+
+.chat-user {
+  background: #ffebd6;
+  align-self: flex-end;
+}
+
+.chat-bot {
+  background: #f1f1f1;
+  align-self: flex-start;
+}
+
+#chatbox-input {
+  display: flex;
+  border-top: 1px solid #ddd;
+}
+
+#chatInput {
+  flex: 1;
+  border: none;
+  padding: 8px;
+  outline: none;
+}
+
+#chatSend {
+  border: none;
+  background: #ff8a3d;
+  color: white;
+  padding: 0 12px;
+  cursor: pointer;
+}
