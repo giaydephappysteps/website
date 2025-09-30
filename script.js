@@ -9,20 +9,20 @@ const PRODUCTS = [
 {
 id: 'g-1',
 cat: 'giay',
-name: "Giày sneaker nam Biti’s Hunter HSM004901TRG",
+name: "Giày sneaker nam HS HSM004901TRG",
 price: 785000,
 images: ["https://product.hstatic.net/1000230642/product/hsm004901den__1__c4efbe02f6f647d2b14ce5e04efd8809_master.jpg", "https://product.hstatic.net/1000230642/product/hsm004901xnh__5__63778f4c75b84a7e96290311d5982cfe_master.jpg", "https://product.hstatic.net/1000230642/product/hsm004901xal__1__c4c6b02f46e54752bfa6435eac4f4fb8_master.jpg"],
 sizes: [38,39,40,41,42,43],
-desc: "Giày sneaker nam Giày thể thao nam Biti’s Hunter HSM004901TRG là lựa chọn hoàn hảo cho các chàng trai yêu thích sự mạnh mẽ và phong cách hiện đại. Với tông đen chủ đạo kết hợp logo Hunter nổi bật, mẫu sneaker này mang đến cảm giác cá tính, dễ phối với nhiều trang phục thường ngày. Thân giày được làm từ vải lưới thoáng khí kết hợp da tổng hợp, vừa đảm bảo độ bền bỉ vừa giúp thoáng mát trong suốt quá trình vận động. Lớp lót trong mềm mại, thấm hút mồ hôi tốt, đem lại cảm giác thoải mái khi di chuyển cả ngày dài. Đế giày cao su nguyên khối chắc chắn, có rãnh chống trượt sâu, tăng độ bám và khả năng đàn hồi, giúp người mang an toàn và linh hoạt hơn khi tập luyện hay đi lại. Thiết kế form dáng thể thao ôm chân, khỏe khoắn, cùng các chi tiết phối màu tinh tế làm nổi bật cá tính riêng. Đây là mẫu sneaker vừa thời trang, vừa tiện dụng, đồng hành tốt cả trong thể thao lẫn sinh hoạt hằng ngày."
+desc: "Giày sneaker nam Giày thể thao nam HS Hunter HSM004901TRG là lựa chọn hoàn hảo cho các chàng trai yêu thích sự mạnh mẽ và phong cách hiện đại. Với tông đen chủ đạo kết hợp logo Hunter nổi bật, mẫu sneaker này mang đến cảm giác cá tính, dễ phối với nhiều trang phục thường ngày. Thân giày được làm từ vải lưới thoáng khí kết hợp da tổng hợp, vừa đảm bảo độ bền bỉ vừa giúp thoáng mát trong suốt quá trình vận động. Lớp lót trong mềm mại, thấm hút mồ hôi tốt, đem lại cảm giác thoải mái khi di chuyển cả ngày dài. Đế giày cao su nguyên khối chắc chắn, có rãnh chống trượt sâu, tăng độ bám và khả năng đàn hồi, giúp người mang an toàn và linh hoạt hơn khi tập luyện hay đi lại. Thiết kế form dáng thể thao ôm chân, khỏe khoắn, cùng các chi tiết phối màu tinh tế làm nổi bật cá tính riêng. Đây là mẫu sneaker vừa thời trang, vừa tiện dụng, đồng hành tốt cả trong thể thao lẫn sinh hoạt hằng ngày."
 },
 {
 id: 'g-2',
 cat: 'giay',
-name: "Giày chạy bộ nam Promax PR-21003",
+name: "Giày chạy bộ nam HS PR-21003",
 price: 485000,
 images: ["https://product.hstatic.net/1000288768/product/thumb_white_c4d1074af20944dfb550415f10749e6a_master.jpg", "https://product.hstatic.net/1000288768/product/thumb_navy_8dc44dc52bf14ab5847e34f22baf8283_master.jpg", "https://product.hstatic.net/1000288768/product/thumb_blue_97d87d2183624b68aafa1a04738384f0_master.jpg"],
 sizes: [38,39,40,41,42,43],
-desc: "Giày thể thao nam Promax PR-21003 – Đậm cá tính, thoải mái từng bước chân. Promax PR-21003 là mẫu giày thể thao nam lý tưởng cho phong cách sống năng động. Giày có thiết kế phối màu gradient hiện đại kết hợp họa tiết network thời thượng, tạo nên vẻ ngoài nổi bật, khỏe khoắn và dễ phối đồ. Upper từ vải mesh kết hợp Jacquard cao cấp: mang lại độ bền cao, thoáng khí tối ưu và khả năng chống phai màu, ít xù lông hay biến dạng – phù hợp với cường độ vận động thường xuyên. Đế PU êm, nhẹ và đàn hồi tốt: giúp hấp thụ lực hiệu quả, bảo vệ bàn chân và hỗ trợ các chuyển động linh hoạt, ổn định trong nhiều tình huống thể thao. Phù hợp với nhiều hoạt động thể thao như: tập gym, fitness cơ bản, chạy bộ, đi bộ hàng ngày, chơi cầu lông, pickleball phong trào."
+desc: "Giày thể thao nam HS PR-21003 – Đậm cá tính, thoải mái từng bước chân. HS PR-21003 là mẫu giày thể thao nam lý tưởng cho phong cách sống năng động. Giày có thiết kế phối màu gradient hiện đại kết hợp họa tiết network thời thượng, tạo nên vẻ ngoài nổi bật, khỏe khoắn và dễ phối đồ. Upper từ vải mesh kết hợp Jacquard cao cấp: mang lại độ bền cao, thoáng khí tối ưu và khả năng chống phai màu, ít xù lông hay biến dạng – phù hợp với cường độ vận động thường xuyên. Đế PU êm, nhẹ và đàn hồi tốt: giúp hấp thụ lực hiệu quả, bảo vệ bàn chân và hỗ trợ các chuyển động linh hoạt, ổn định trong nhiều tình huống thể thao. Phù hợp với nhiều hoạt động thể thao như: tập gym, fitness cơ bản, chạy bộ, đi bộ hàng ngày, chơi cầu lông, pickleball phong trào."
 },
 {
 id: 'g-3',
@@ -36,7 +36,7 @@ desc: "Sandal nam thể thao – lựa chọn hoàn hảo cho những ai yêu th
 {
 id: 'g-4',
 cat: 'giay',
-name: "Giày nữ Biti’s màu xám lợt",
+name: "Giày nữ HS màu xám lợt",
 price: 435000,
 images: ["https://product.hstatic.net/1000230642/product/bbw003388den__3__ca1c95eee97245e99b31759f78f17e74.jpg", "https://cdn.hstatic.net/products/1000230642/bbw003388hog__6__984a6215489e4f479638916c68bdc0a2.jpg"],
 sizes: [36,37,38,39,40],
@@ -45,12 +45,31 @@ desc: "Giày nữ Biti’s màu xám lợt gây ấn tượng với tông màu t
 {
 id: 'g-5',
 cat: 'giay',
-name: "Giày sandal nữ Biti’s BBW003388HOG",
+name: "Giày sandal nữ HS BBW003388HOG",
 price: 960000,
 images: ["https://cdn.hstatic.net/products/1000230642/byw000700den__1__199623b291744e6bba03a49f46a6927a.jpg", "https://cdn.hstatic.net/products/1000230642/byw000700xal__6__1d41df30b6c844a58b803cfd70aeb2c3.jpg"],
 sizes: [35,36,37,38,39],
 desc: "Giày sandal nữ BBW003388HOG từ Biti’s mang đến phong cách nữ tính, thanh lịch và cực kỳ dễ phối đồ nhờ thiết kế chần bông thời thượng kết hợp cùng tone màu hồng pastel nhẹ nhàng. Kiểu dáng basic, không lỗi mốt giúp đôi giày trở thành món phụ kiện lý tưởng cho nhiều dịp sử dụng: đi làm, đi học hay dạo phố. Phần mũi giày bo tròn nhẹ, tạo cảm giác dễ chịu và phù hợp với nhiều dáng bàn chân. Chất liệu da tổng hợp cao cấp được xử lý mịn, mềm, có độ đàn hồi tốt, dễ vệ sinh và không bị bong tróc. Phần lót trong êm ái, thấm hút tốt mang đến cảm giác thoải mái suốt ngày dài. Đế bệt chống trơn trượt hỗ trợ di chuyển an toàn, linh hoạt, trong khi nơ nhỏ trước mũi giày đính kim loại ánh vàng là điểm nhấn tinh tế cho tổng thể."
 },
+{
+id: 'g-6',
+cat: 'giay',
+name: "Giày HS MLB Mule NY",
+price: 1090000,
+images: ["https://sneakerholicvietnam.vn/wp-content/uploads/2021/06/mlb-mule-ny--black-3amuua11n-50bks-1.jpg", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn8X2smdG8r1OxtHHw6zMd1kaBBvqZ5qPmZmx299WqPV638j_yiB6Yw8_jekzc3LxmAo&usqp=CAU"],
+sizes: [38,39,40,41,42,43],
+desc: "MLB Mule NY – Mẫu giày đạp gót (hở gót) phiên bản màu đen với họa tiết monogram màu trắng tinh tế. Đây là mẫu giày nên có trong tủ đồ của các bạn trẻ, đặc biệt là những bạn thích sự tiện lợi. Bởi mẫu giày này rất dễ sử dụng, có thể kết hợp với nhiều kiểu trang phục khác nhau trong nhiều trường hợp khác nhau mà vẫn tôn lên phong cách thời trang trẻ trung, năng động của bạn."
+},
+{
+id: 'g-7',
+cat: 'giay',
+name: "Giày Nike Air Max 2090 Magma Orange ",
+price: 3500000,
+images: ["https://onde3ga1pbweb.vcdn.cloud/wp-content/uploads/2023/04/upload_6e849c57354545d7a6995040e5444bca.jpg", "https://onde3ga1pbweb.vcdn.cloud/wp-content/uploads/2023/04/upload_a87f39f8a36445a4a2561e89274b6499-300x300.jpg", "https://onde3ga1pbweb.vcdn.cloud/wp-content/uploads/2023/04/nike-air-max-2090-bv9977-800-4_f7f9efc76da14d7c82a52c5fe69ff5ee-300x171.jpg"],
+sizes: [38,39,40,41,42,43],
+desc: "Giày Nike Air Max 2090 Magma Orange mang quá khứ vào tương lai với Nike Air Max 2090 Magma Orange. Đây là một diện mạo táo bạo lấy cảm hứng từ DNA của chiếc Air Max 90 mang tính biểu tượng. Đệm Nike Air hoàn toàn mới tạo thêm sự thoải mái vô song. Trong khi  vải lưới trong suốt và vải dệt màu rực rỡ trên một số đường màu chọn lọc pha trộn với thời gian Các tính năng của OG cho giao diện hiện đại, sắc sảo. Cùng Fbshop đi xem chi tiết sản phẩm huyền thoại này nhé."
+},
+
 {
 id: 'd-1',
 cat: 'dep',
@@ -95,7 +114,8 @@ price: 130000,
 images: ["https://cdn.hstatic.net/products/1000230642/bxw020900den__4__e1add2ed49eb43e8bc891bda0426506a.jpg", "https://cdn.hstatic.net/products/1000230642/bxw020900nau__2__791d1acf969c4029a18203933f13d712.jpg"],
 sizes: [36,37,38,39],
 desc: "Dép kẹp nữ Biti’s BXW020900 màu nâu với quai vải đen đính đá lấp lánh tinh tế. Dễ dàng phối hợp cùng nhiều kiểu váy áo mùa hè, từ đi biển đến dạo phố. Chất liệu đế EVA nhẹ nhàng, đàn hồi tốt, mang đến cảm giác thoải mái cả ngày dài. Đế cao 3cm giúp tôn dáng và tăng sự năng động. Rãnh chống trượt dưới đế đảm bảo an toàn khi di chuyển."
-}
+},
+
 ];
 
 
@@ -162,10 +182,23 @@ function renderDetail(id) {
   if (!p) { goto("#/"); return; }
   currentProduct = p;
 
-  $("#detail-name").textContent = p.name;
+    $("#detail-name").textContent = p.name;
   $("#detail-desc").textContent = p.desc;
   $("#detail-price").textContent = money(p.price);
-  $("#detail-full-desc").textContent = p.desc;
+
+  // Chi tiết đầy đủ: chỉ hiển thị khi có nội dung khác (hoặc để trống),
+  // và luôn kiểm tra phần tử tồn tại để tránh lỗi nếu bị xóa nhầm trong HTML.
+  const fullDescEl = $("#detail-full-desc");
+  if (fullDescEl) {
+    // Nếu bạn có trường fullDesc riêng biệt trong dữ liệu sản phẩm (p.fullDesc),
+    // hãy hiển thị nó; nếu không, để trống để tránh lặp mô tả.
+    if (p.fullDesc && p.fullDesc.trim() && p.fullDesc !== p.desc) {
+      fullDescEl.textContent = p.fullDesc;
+    } else {
+      fullDescEl.textContent = ""; // giữ rỗng để không lặp lại desc ngắn
+    }
+  }
+
 
   // main image
   const mainImg = $("#detail-image");
@@ -228,7 +261,8 @@ function changeDetailImage(url) {
 const fakeReviews = [
   { author: "Nguyễn Văn A", stars: 5, text: "Giày rất êm, đúng mô tả - sẽ mua lại." },
   { author: "Trần Thị B", stars: 4, text: "Màu đẹp, giao nhanh. Size hơi to." },
-  { author: "Lê Văn C", stars: 5, text: "Chất lượng tốt, giá hợp lý." }
+  { author: "Lê Văn C", stars: 5, text: "Chất lượng tốt, giá hợp lý." },
+  { author: "Lê Minh Tuấn", stars: 5, text: "Tuyệt vời." }
 ];
 function renderReviews() {
   const list = $("#reviews-list");
@@ -572,11 +606,16 @@ function botReply(userText) {
     reply = "Bạn có thể nhấn nút 'Thêm vào giỏ' hoặc 'Mua ngay' để đặt hàng 🛒";
   } else if (userText.includes("bảo hành")) {
     reply = "Sản phẩm được bảo hành keo, chỉ may, đế bong tróc trong 6 tháng 🛡️";
-  
   } else if (userText.includes("hello")) {
     reply = "hello con khỉ cho xin 10đ đi";
     } else if (userText.includes("xin chào")) {
     reply = "xin chào con khỉ cho xin 10đ đi";
+    } else if (userText.includes("Tình trạng sản phẩm") || userText.includes("trình trạng") || userText.includes("kho ") | userText.includes("kho hàng") | userText.includes("sản phẩm")) {
+    reply = "Tình trạng các sản phẩm đều còn hàng";
+     } else if (userText.includes("hướng dẫn cách mua") || userText.includes("hướng dẫn cách đặt hàng") || userText.includes("cách mua")) {
+    reply = "Để mua hàng trên web, bạn cần tìm sản phẩm mong muốn trên trang web, sau đó chọn chi tiết như màu sắc, size, số lượng rồi thêm vào giỏ hàng. Tiếp theo, bạn vào giỏ hàng hoặc thanh toán ngay, điền thông tin nhận hàng và chọn phương thức thanh toán, cuối cùng là hoàn tất và xác nhận đơn hàng. ";
+    } else if (userText.includes("ê") || userText.includes("shop")) {
+    reply = "Dạ em kính chào quý khách ạ. Anh chị có cần gì hỗ trợ mua hàng không";
   }
 
   setTimeout(() => addMessage(reply, "bot"), 600);
