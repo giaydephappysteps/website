@@ -638,3 +638,53 @@ chatSend.addEventListener("click", () => {
 chatInput.addEventListener("keypress", (e) => {
   if (e.key === "Enter") chatSend.click();
 });
+// Lấy phần tử
+document.addEventListener("DOMContentLoaded", () => {
+  const modal = document.getElementById("reviewModal");
+  const openBtn = document.getElementById("openReviewBtn");
+  const closeBtn = document.getElementById("closeModal");
+  const stars = document.querySelectorAll(".star-rating span");
+  const submitBtn = document.getElementById("submitReview");
+  const successMsg = document.getElementById("successMsg");
+
+  let selectedRating = 0;
+
+  // Mở modal
+  openBtn.addEventListener("click", () => {
+    modal.style.display = "block";
+  });
+
+  // Đóng modal
+  closeBtn.addEventListener("click", () => {
+    modal.style.display = "none";
+  });
+
+  // Click chọn sao
+  stars.forEach((star, index) => {
+    star.addEventListener("click", () => {
+      selectedRating = index + 1;
+      stars.forEach(s => s.classList.remove("active"));
+      for (let i = 0; i < selectedRating; i++) {
+        stars[i].classList.add("active");
+      }
+    });
+  });
+
+  // Gửi đánh giá
+  submitBtn.addEventListener("click", () => {
+    if (selectedRating === 0) {
+      alert("Vui lòng chọn số sao trước khi gửi.");
+      return;
+    }
+    successMsg.style.display = "block";
+  
+
+  setTimeout(() => {
+    modal.style.display = "none";
+    successMsg.style.display = "none";
+    document.getElementById("reviewText").value = "";
+    stars.forEach(s => s.classList.remove("selected"));
+    rating = 0;
+  }, 1500);
+  });
+})
