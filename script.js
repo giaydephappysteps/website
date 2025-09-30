@@ -614,7 +614,7 @@ function botReply(userText) {
     reply = "Tình trạng các sản phẩm đều còn hàng";
      } else if (userText.includes("hướng dẫn cách mua") || userText.includes("hướng dẫn cách đặt hàng") || userText.includes("cách mua")) {
     reply = "Để mua hàng trên web, bạn cần tìm sản phẩm mong muốn trên trang web, sau đó chọn chi tiết như màu sắc, size, số lượng rồi thêm vào giỏ hàng. Tiếp theo, bạn vào giỏ hàng hoặc thanh toán ngay, điền thông tin nhận hàng và chọn phương thức thanh toán, cuối cùng là hoàn tất và xác nhận đơn hàng. ";
-    } else if (userText.includes("ê") || userText.includes("shop")) {
+    } else if (userText.includes("ê") || userText.includes("shop")|| userText.includes("e")|| userText.includes("Ê")|| userText.includes("E")) {
     reply = "Dạ em kính chào quý khách ạ. Anh chị có cần hỗ trợ gì khi mua hàng không ạ";
     } else if (userText.includes("Cần hỗ trợ") || userText.includes("Hỗ trợ") || userText.includes("cần hỗ trợ") || userText.includes("mình cần hỗ trợ")|| userText.includes("hỗ trợ")|| userText.includes("hổ trợ")|| userText.includes("Hổ trợ")) {
     reply = "Dạ em kính chào quý khách ạ. Anh chị có cần gì hỗ trợ có thể liên hệ với số điện thoại 0964297993 hoặc 0388857581 để giải quyết liền thắc mắc của quý khách ạ";
