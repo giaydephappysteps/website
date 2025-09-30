@@ -159,3 +159,37 @@
   padding: 0 12px;
   cursor: pointer;
 }
+/* Fix màu chữ trùng nền */
+.navbar a,
+.navbar a:visited,
+.header a,
+.header span,
+.cart-title,
+.product-title {
+  color: #000 !important;
+}
+/* Chỉ đổi màu chữ trong nội dung popup */
+.modal *,
+.popup *,
+.dialog * {
+  color: #000 !important;  /* ép chữ đen */
+}
+/* Chỉnh menu xổ xuống Sản phẩm */
+.nav-dropdown-menu {
+  background: #fff;           /* nền trắng */
+  border: 1px solid #ccc;     /* viền xám nhẹ cho rõ ràng */
+}
+
+.nav-dropdown-menu button {
+  color: #000 !important;     /* chữ đen */
+  background: transparent;    /* bỏ nền mờ */
+  padding: 8px 12px;
+  display: block;
+  width: 100%;
+  text-align: left;
+}
+
+.nav-dropdown-menu button:hover {
+  background: #f0f0f0;        /* khi hover đổi sang xám nhạt */
+}
+

@@ -19,7 +19,7 @@ desc: "Giày sneaker nam Giày thể thao nam HS Hunter HSM004901TRG là lựa c
 id: 'g-2',
 cat: 'giay',
 name: "Giày chạy bộ nam HS PR-21003",
-price: 485000,
+price: 585000,
 images: ["https://product.hstatic.net/1000288768/product/thumb_white_c4d1074af20944dfb550415f10749e6a_master.jpg", "https://product.hstatic.net/1000288768/product/thumb_navy_8dc44dc52bf14ab5847e34f22baf8283_master.jpg", "https://product.hstatic.net/1000288768/product/thumb_blue_97d87d2183624b68aafa1a04738384f0_master.jpg"],
 sizes: [38,39,40,41,42,43],
 desc: "Giày thể thao nam HS PR-21003 – Đậm cá tính, thoải mái từng bước chân. HS PR-21003 là mẫu giày thể thao nam lý tưởng cho phong cách sống năng động. Giày có thiết kế phối màu gradient hiện đại kết hợp họa tiết network thời thượng, tạo nên vẻ ngoài nổi bật, khỏe khoắn và dễ phối đồ. Upper từ vải mesh kết hợp Jacquard cao cấp: mang lại độ bền cao, thoáng khí tối ưu và khả năng chống phai màu, ít xù lông hay biến dạng – phù hợp với cường độ vận động thường xuyên. Đế PU êm, nhẹ và đàn hồi tốt: giúp hấp thụ lực hiệu quả, bảo vệ bàn chân và hỗ trợ các chuyển động linh hoạt, ổn định trong nhiều tình huống thể thao. Phù hợp với nhiều hoạt động thể thao như: tập gym, fitness cơ bản, chạy bộ, đi bộ hàng ngày, chơi cầu lông, pickleball phong trào."
@@ -28,7 +28,7 @@ desc: "Giày thể thao nam HS PR-21003 – Đậm cá tính, thoải mái từn
 id: 'g-3',
 cat: 'giay',
 name: "Sandal nam thể thao",
-price: 380000,
+price: 680000,
 images: ["https://product.hstatic.net/1000230642/product/hem000800nau__2__f738866df735403492f24dce1fd2a2d9_b2fdf2cd616d436883d20a5774d97746_master.jpg", "https://product.hstatic.net/1000230642/product/hem000800xam__2__b700b4a63c884440b6cca79933947024_master.jpg", "https://product.hstatic.net/1000230642/product/hem000800den__2__bb86cf4d9f8d4e679162e8ee1d435334_a6bec99efcc341cd80b66c980086dc18_master.jpg"],
 sizes: [39,40,41,42,43,44],
 desc: "Sandal nam thể thao – lựa chọn hoàn hảo cho những ai yêu thích sự năng động và tiện dụng. Thiết kế quai chéo kết hợp quai ngang, tạo dáng khỏe khoắn và chắc chắn. Màu sắc: đen toàn bộ, đơn giản nhưng sang trọng, dễ phối với nhiều phong cách. Chất liệu quai: vải dù cao cấp, bền bỉ, dễ vệ sinh, kết hợp khóa dán và khóa gài tiện lợi. Đế sandal: cao su dày dặn, chống trượt, có độ đàn hồi tốt, hỗ trợ di chuyển linh hoạt. Lót trong: êm ái, thoải mái khi mang lâu. Ứng dụng: phù hợp cho đi chơi, du lịch, hoạt động ngoài trời hoặc đi dạo hằng ngày."
@@ -37,34 +37,34 @@ desc: "Sandal nam thể thao – lựa chọn hoàn hảo cho những ai yêu th
 id: 'g-4',
 cat: 'giay',
 name: "Giày nữ HS màu xám lợt",
-price: 435000,
+price: 535000,
 images: ["https://product.hstatic.net/1000230642/product/bbw003388den__3__ca1c95eee97245e99b31759f78f17e74.jpg", "https://cdn.hstatic.net/products/1000230642/bbw003388hog__6__984a6215489e4f479638916c68bdc0a2.jpg"],
 sizes: [36,37,38,39,40],
-desc: "Giày nữ Biti’s màu xám lợt gây ấn tượng với tông màu trung tính và thanh lịch, dễ phối hợp với nhiều phong cách trang phục khác nhau. Sản phẩm sở hữu quai dán Velcro bản to chắc chắn, cho phép điều chỉnh nhanh chóng để ôm vừa bàn chân, tạo sự thoải mái và an toàn khi di chuyển. Quai làm từ sợi tổng hợp cao cấp, chống sờn rách và bền đẹp theo thời gian. Đế sandal được làm từ cao su nguyên khối với các rãnh chống trượt sâu, giúp tăng khả năng bám trên nhiều loại bề mặt, kể cả khi thời tiết ẩm ướt. Lót sandal dập vân nổi hạn chế trượt chân và tạo cảm giác êm ái. Với thiết kế mở, sandal đảm bảo sự thông thoáng cho đôi chân, đặc biệt phù hợp trong những ngày hè hoặc các chuyến đi biển, picnic."
+desc: "Giày nữ HS màu xám lợt gây ấn tượng với tông màu trung tính và thanh lịch, dễ phối hợp với nhiều phong cách trang phục khác nhau. Sản phẩm sở hữu quai dán Velcro bản to chắc chắn, cho phép điều chỉnh nhanh chóng để ôm vừa bàn chân, tạo sự thoải mái và an toàn khi di chuyển. Quai làm từ sợi tổng hợp cao cấp, chống sờn rách và bền đẹp theo thời gian. Đế sandal được làm từ cao su nguyên khối với các rãnh chống trượt sâu, giúp tăng khả năng bám trên nhiều loại bề mặt, kể cả khi thời tiết ẩm ướt. Lót sandal dập vân nổi hạn chế trượt chân và tạo cảm giác êm ái. Với thiết kế mở, sandal đảm bảo sự thông thoáng cho đôi chân, đặc biệt phù hợp trong những ngày hè hoặc các chuyến đi biển, picnic."
 },
 {
 id: 'g-5',
 cat: 'giay',
 name: "Giày sandal nữ HS BBW003388HOG",
-price: 960000,
+price: 860000,
 images: ["https://cdn.hstatic.net/products/1000230642/byw000700den__1__199623b291744e6bba03a49f46a6927a.jpg", "https://cdn.hstatic.net/products/1000230642/byw000700xal__6__1d41df30b6c844a58b803cfd70aeb2c3.jpg"],
 sizes: [35,36,37,38,39],
-desc: "Giày sandal nữ BBW003388HOG từ Biti’s mang đến phong cách nữ tính, thanh lịch và cực kỳ dễ phối đồ nhờ thiết kế chần bông thời thượng kết hợp cùng tone màu hồng pastel nhẹ nhàng. Kiểu dáng basic, không lỗi mốt giúp đôi giày trở thành món phụ kiện lý tưởng cho nhiều dịp sử dụng: đi làm, đi học hay dạo phố. Phần mũi giày bo tròn nhẹ, tạo cảm giác dễ chịu và phù hợp với nhiều dáng bàn chân. Chất liệu da tổng hợp cao cấp được xử lý mịn, mềm, có độ đàn hồi tốt, dễ vệ sinh và không bị bong tróc. Phần lót trong êm ái, thấm hút tốt mang đến cảm giác thoải mái suốt ngày dài. Đế bệt chống trơn trượt hỗ trợ di chuyển an toàn, linh hoạt, trong khi nơ nhỏ trước mũi giày đính kim loại ánh vàng là điểm nhấn tinh tế cho tổng thể."
+desc: "Giày sandal nữ BBW003388HOG từ HS mang đến phong cách nữ tính, thanh lịch và cực kỳ dễ phối đồ nhờ thiết kế chần bông thời thượng kết hợp cùng tone màu hồng pastel nhẹ nhàng. Kiểu dáng basic, không lỗi mốt giúp đôi giày trở thành món phụ kiện lý tưởng cho nhiều dịp sử dụng: đi làm, đi học hay dạo phố. Phần mũi giày bo tròn nhẹ, tạo cảm giác dễ chịu và phù hợp với nhiều dáng bàn chân. Chất liệu da tổng hợp cao cấp được xử lý mịn, mềm, có độ đàn hồi tốt, dễ vệ sinh và không bị bong tróc. Phần lót trong êm ái, thấm hút tốt mang đến cảm giác thoải mái suốt ngày dài. Đế bệt chống trơn trượt hỗ trợ di chuyển an toàn, linh hoạt, trong khi nơ nhỏ trước mũi giày đính kim loại ánh vàng là điểm nhấn tinh tế cho tổng thể."
 },
 {
 id: 'g-6',
 cat: 'giay',
 name: "Giày HS MLB Mule NY",
-price: 1090000,
+price: 845000,
 images: ["https://sneakerholicvietnam.vn/wp-content/uploads/2021/06/mlb-mule-ny--black-3amuua11n-50bks-1.jpg", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn8X2smdG8r1OxtHHw6zMd1kaBBvqZ5qPmZmx299WqPV638j_yiB6Yw8_jekzc3LxmAo&usqp=CAU"],
 sizes: [38,39,40,41,42,43],
-desc: "MLB Mule NY – Mẫu giày đạp gót (hở gót) phiên bản màu đen với họa tiết monogram màu trắng tinh tế. Đây là mẫu giày nên có trong tủ đồ của các bạn trẻ, đặc biệt là những bạn thích sự tiện lợi. Bởi mẫu giày này rất dễ sử dụng, có thể kết hợp với nhiều kiểu trang phục khác nhau trong nhiều trường hợp khác nhau mà vẫn tôn lên phong cách thời trang trẻ trung, năng động của bạn."
+desc: "HS MLB Mule NY – Mẫu giày đạp gót (hở gót) phiên bản màu đen với họa tiết monogram màu trắng tinh tế. Đây là mẫu giày nên có trong tủ đồ của các bạn trẻ, đặc biệt là những bạn thích sự tiện lợi. Bởi mẫu giày này rất dễ sử dụng, có thể kết hợp với nhiều kiểu trang phục khác nhau trong nhiều trường hợp khác nhau mà vẫn tôn lên phong cách thời trang trẻ trung, năng động của bạn."
 },
 {
 id: 'g-7',
 cat: 'giay',
 name: "Giày Nike Air Max 2090 Magma Orange ",
-price: 3500000,
+price: 650000,
 images: ["https://onde3ga1pbweb.vcdn.cloud/wp-content/uploads/2023/04/upload_6e849c57354545d7a6995040e5444bca.jpg", "https://onde3ga1pbweb.vcdn.cloud/wp-content/uploads/2023/04/upload_a87f39f8a36445a4a2561e89274b6499-300x300.jpg", "https://onde3ga1pbweb.vcdn.cloud/wp-content/uploads/2023/04/nike-air-max-2090-bv9977-800-4_f7f9efc76da14d7c82a52c5fe69ff5ee-300x171.jpg"],
 sizes: [38,39,40,41,42,43],
 desc: "Giày Nike Air Max 2090 Magma Orange mang quá khứ vào tương lai với Nike Air Max 2090 Magma Orange. Đây là một diện mạo táo bạo lấy cảm hứng từ DNA của chiếc Air Max 90 mang tính biểu tượng. Đệm Nike Air hoàn toàn mới tạo thêm sự thoải mái vô song. Trong khi  vải lưới trong suốt và vải dệt màu rực rỡ trên một số đường màu chọn lọc pha trộn với thời gian Các tính năng của OG cho giao diện hiện đại, sắc sảo. Cùng Fbshop đi xem chi tiết sản phẩm huyền thoại này nhé."
@@ -73,47 +73,47 @@ desc: "Giày Nike Air Max 2090 Magma Orange mang quá khứ vào tương lai v�
 {
 id: 'd-1',
 cat: 'dep',
-name: "Dép xỏ ngón nam Biti’s",
+name: "Dép xỏ ngón nam HS",
 price: 255000,
 images: ["https://product.hstatic.net/1000230642/product/bxm005200nau__5__5c5d78f60d864514ae86e2eff06ea3a8_large.jpg", "https://product.hstatic.net/1000230642/product/bxm005200xam__2__a2f5f99fce2b47848fa9cfa27523c50e_1024x1024.jpg", "https://product.hstatic.net/1000230642/product/bxm005200den__5__c894ed99f41842cfb603f4e71e2fc29a_large.jpg"],
 sizes: [38,39,40,41,42,43],
-desc: "Dép xỏ ngón nam với thiết kế hiện đại, tối giản nhưng vẫn mang nét khỏe khoắn. Quai vải dệt bền chắc, êm ái, kết hợp với lớp đệm EVA nhẹ và đàn hồi tốt, mang lại cảm giác thoải mái khi di chuyển. Tông đen chủ đạo, logo BITI’S màu đỏ nổi bật. Đế dép có rãnh chống trượt, bám chắc bề mặt, đảm bảo an toàn khi đi lại. Phù hợp cho các hoạt động thường ngày, đi chơi, dạo phố hoặc đi biển."
+desc: "Dép xỏ ngón nam HS với thiết kế hiện đại, tối giản nhưng vẫn mang nét khỏe khoắn. Quai vải dệt bền chắc, êm ái, kết hợp với lớp đệm EVA nhẹ và đàn hồi tốt, mang lại cảm giác thoải mái khi di chuyển. Tông đen chủ đạo, logo BITI’S màu đỏ nổi bật. Đế dép có rãnh chống trượt, bám chắc bề mặt, đảm bảo an toàn khi đi lại. Phù hợp cho các hoạt động thường ngày, đi chơi, dạo phố hoặc đi biển."
 },
 {
 id: 'd-2',
 cat: 'dep',
-name: "Dép quai ngang thời trang",
-price: 460000,
+name: "Dép quai ngang thời trang HS",
+price: 360000,
 images: ["https://product.hstatic.net/1000284478/product/01_pm1-85110466_2_abf0795e846b4098a26d4f1416ab2c40_large.jpg", "https://product.hstatic.net/1000284478/product/10_pm1-85110466_2_7efe916153814c22bbd2203123228a2f_large.jpg"],
 sizes: [38,39,40,41,42,43],
-desc: "Dép quai ngang thời trang với chi tiết logo thương hiệu sang trọng. Kiểu dáng phóng khoáng, hiện đại, đa năng. Màu sắc hiện đại, dễ dàng kết hợp với nhiều phong cách khác nhau."
+desc: "Dép quai ngang thời trang HS với chi tiết logo thương hiệu sang trọng. Kiểu dáng phóng khoáng, hiện đại, đa năng. Màu sắc hiện đại, dễ dàng kết hợp với nhiều phong cách khác nhau."
 },
 {
 id: 'd-3',
 cat: 'dep',
-name: "Dép quai ngang Quilted",
-price: 700000,
+name: "Dép quai ngang HS Quilted",
+price: 500000,
 images: ["https://product.hstatic.net/1000284478/product/66_pm1-86380183_2_009a63caec8f479a8a2ee94567e832ca_large.jpg", "https://product.hstatic.net/1000284478/product/44_pm1-86380183_2_38e8aa8686d9424c824dcf54b1ab7511_large.jpg", "https://product.hstatic.net/1000284478/product/01_pm1-86380183_2_f0fd35405ce6453d85fb12fb45a91033_large.jpg"],
 sizes: [37,38,39,40,41],
-desc: "Dép quai ngang Quilted với thiết kế slip-on tiện lợi, dễ dàng mang vào và tháo ra. Phần đế cao ấn tượng tạo nên vẻ ngoài thời thượng. Đây là lựa chọn lý tưởng cho những buổi dạo phố cuối tuần, mang đến sự thoải mái và phong cách nổi bật."
+desc: "Dép quai ngang HS Quilted với thiết kế slip-on tiện lợi, dễ dàng mang vào và tháo ra. Phần đế cao ấn tượng tạo nên vẻ ngoài thời thượng. Đây là lựa chọn lý tưởng cho những buổi dạo phố cuối tuần, mang đến sự thoải mái và phong cách nổi bật."
 },
 {
 id: 'd-4',
 cat: 'dep',
-name: "Dép nữ Biti’s BEW003300CAM",
-price: 145000,
+name: "Dép nữ HS BEW003300CAM",
+price: 245000,
 images: ["https://cdn.hstatic.net/products/1000230642/bew003300tim__1__ad63736a273f4d87b8149f6fa2653d40.jpg", "https://cdn.hstatic.net/products/1000230642/bew003300hog__1__7e1b6716220246839476f938bd1afccf.jpg", "https://cdn.hstatic.net/products/1000230642/bew003300cam__6__65338752e7874274b5e44fa49222f9b4.jpg"],
 sizes: [36,37,38,39],
-desc: "Dép nữ BEW003300CAM với tone cam rực rỡ, đôi dép này thu hút ánh nhìn và thể hiện cá tính. Quai đan chéo phá cách, được thiết kế chắc chắn, bám chân tốt, tạo cảm giác vừa vặn và vững chãi. Chất liệu EVA nguyên khối siêu nhẹ, không thấm nước, dễ vệ sinh và cực kỳ bền bỉ. Đế dép EVA với vân chống trượt đảm bảo an toàn. Đệm lòng bàn chân hỗ trợ giảm mỏi, giúp bạn thoải mái cả ngày."
+desc: "Dép nữ HS BEW003300CAM với tone cam rực rỡ, đôi dép này thu hút ánh nhìn và thể hiện cá tính. Quai đan chéo phá cách, được thiết kế chắc chắn, bám chân tốt, tạo cảm giác vừa vặn và vững chãi. Chất liệu EVA nguyên khối siêu nhẹ, không thấm nước, dễ vệ sinh và cực kỳ bền bỉ. Đế dép EVA với vân chống trượt đảm bảo an toàn. Đệm lòng bàn chân hỗ trợ giảm mỏi, giúp bạn thoải mái cả ngày."
 },
 {
 id: 'd-5',
 cat: 'dep',
-name: "Dép kẹp nữ Biti’s BXW020900NAU",
-price: 130000,
+name: "Dép kẹp nữ HS BXW020900NAU",
+price: 230000,
 images: ["https://cdn.hstatic.net/products/1000230642/bxw020900den__4__e1add2ed49eb43e8bc891bda0426506a.jpg", "https://cdn.hstatic.net/products/1000230642/bxw020900nau__2__791d1acf969c4029a18203933f13d712.jpg"],
 sizes: [36,37,38,39],
-desc: "Dép kẹp nữ Biti’s BXW020900 màu nâu với quai vải đen đính đá lấp lánh tinh tế. Dễ dàng phối hợp cùng nhiều kiểu váy áo mùa hè, từ đi biển đến dạo phố. Chất liệu đế EVA nhẹ nhàng, đàn hồi tốt, mang đến cảm giác thoải mái cả ngày dài. Đế cao 3cm giúp tôn dáng và tăng sự năng động. Rãnh chống trượt dưới đế đảm bảo an toàn khi di chuyển."
+desc: "Dép kẹp nữ HS BXW020900 màu nâu với quai vải đen đính đá lấp lánh tinh tế. Dễ dàng phối hợp cùng nhiều kiểu váy áo mùa hè, từ đi biển đến dạo phố. Chất liệu đế EVA nhẹ nhàng, đàn hồi tốt, mang đến cảm giác thoải mái cả ngày dài. Đế cao 3cm giúp tôn dáng và tăng sự năng động. Rãnh chống trượt dưới đế đảm bảo an toàn khi di chuyển."
 },
 
 ];
@@ -599,7 +599,7 @@ function botReply(userText) {
   userText = userText.toLowerCase();
 
   if (userText.includes("giá")) {
-    reply = "Giá sản phẩm từ 200.000đ - 500.000đ tuỳ loại 👟🩴";
+    reply = "Giá sản phẩm từ 500.000đ - 800.000đ tuỳ loại 👟 và từ 200.000đ-500.000đ tùy loại🩴ạ";
   } else if (userText.includes("ship") || userText.includes("vận chuyển")) {
     reply = "Phí ship: 3.000đ / sản phẩm. Giao hàng COD toàn quốc 🚚";
   } else if (userText.includes("đặt hàng") || userText.includes("mua")) {
@@ -607,15 +607,17 @@ function botReply(userText) {
   } else if (userText.includes("bảo hành")) {
     reply = "Sản phẩm được bảo hành keo, chỉ may, đế bong tróc trong 6 tháng 🛡️";
   } else if (userText.includes("hello")) {
-    reply = "hello con khỉ cho xin 10đ đi";
+    reply = "Dạ em kính chào quý khách ạ. Anh chị có cần hỗ trợ gì khi mua hàng không ạ";
     } else if (userText.includes("xin chào")) {
-    reply = "xin chào con khỉ cho xin 10đ đi";
+    reply = "Dạ em kính chào quý khách ạ. Anh chị có cần hỗ trợ gì khi mua hàng không ạ";
     } else if (userText.includes("Tình trạng sản phẩm") || userText.includes("trình trạng") || userText.includes("kho ") | userText.includes("kho hàng") | userText.includes("sản phẩm")) {
     reply = "Tình trạng các sản phẩm đều còn hàng";
      } else if (userText.includes("hướng dẫn cách mua") || userText.includes("hướng dẫn cách đặt hàng") || userText.includes("cách mua")) {
     reply = "Để mua hàng trên web, bạn cần tìm sản phẩm mong muốn trên trang web, sau đó chọn chi tiết như màu sắc, size, số lượng rồi thêm vào giỏ hàng. Tiếp theo, bạn vào giỏ hàng hoặc thanh toán ngay, điền thông tin nhận hàng và chọn phương thức thanh toán, cuối cùng là hoàn tất và xác nhận đơn hàng. ";
     } else if (userText.includes("ê") || userText.includes("shop")) {
-    reply = "Dạ em kính chào quý khách ạ. Anh chị có cần gì hỗ trợ mua hàng không";
+    reply = "Dạ em kính chào quý khách ạ. Anh chị có cần hỗ trợ gì khi mua hàng không ạ";
+    } else if (userText.includes("Cần hỗ trợ") || userText.includes("Hỗ trợ") || userText.includes("cần hỗ trợ") || userText.includes("mình cần hỗ trợ")|| userText.includes("hỗ trợ")) {
+    reply = "Dạ em kính chào quý khách ạ. Anh chị có cần gì hỗ trợ có thể liên hệ với số điện thoại 0964297993 hoặc 0388857581 để giải quyết liền thắc mắc của quý khách ạ";
   }
 
   setTimeout(() => addMessage(reply, "bot"), 600);
