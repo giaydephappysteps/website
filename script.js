@@ -618,7 +618,10 @@ function botReply(userText) {
     reply = "Dạ em kính chào quý khách ạ. Anh chị có cần hỗ trợ gì khi mua hàng không ạ";
     } else if (userText.includes("Cần hỗ trợ") || userText.includes("Hỗ trợ") || userText.includes("cần hỗ trợ") || userText.includes("mình cần hỗ trợ")|| userText.includes("hỗ trợ")) {
     reply = "Dạ em kính chào quý khách ạ. Anh chị có cần gì hỗ trợ có thể liên hệ với số điện thoại 0964297993 hoặc 0388857581 để giải quyết liền thắc mắc của quý khách ạ";
+    } else if (userText.includes("giá giày") || userText.includes("giá dép")|| userText.includes("giá giày và dép")|| userText.includes("giá các sản phẩm")|| userText.includes("giá sản phẩm")) {
+    reply = "Giá sản phẩm từ 500.000đ - 800.000đ tuỳ loại 👟 và từ 200.000đ-500.000đ tùy loại🩴ạ";
   }
+
 
   setTimeout(() => addMessage(reply, "bot"), 600);
 }
